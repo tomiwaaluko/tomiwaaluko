@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Tomiwa Aluko
+# 👨‍💻 Tomiwa Aluko | Engineer, Leader, Mentor
 
 🎓 **Computer Engineering @ UCF** | 💡 Minor in Tech Entrepreneurship  
 💻 Aspiring Software Engineer | 🚀 Future Startup Founder | 📊 MBA Bound  
