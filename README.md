@@ -1,95 +1,117 @@
-# 👨‍💻 Tomiwa Aluko | Engineer, Leader, Mentor
+# 👨‍💻 Olatomiwa Aluko | Software Engineer & Technology Leader
 
-🎓 **Computer Engineering @ UCF** | 💡 Minor in Tech Entrepreneurship  
-💻 Aspiring Software Engineer | 🚀 Future Startup Founder | 📊 MBA Bound  
-🌐 [tomiwaaluko.com](https://tomiwaaluko.com) | 📫 tomiwaaluko02@gmail.com
-
----
-
-## 🧠 About Me
-
-I’m a full-stack developer and AI enthusiast with a passion for building tools that solve real-world problems. I thrive at the intersection of engineering and entrepreneurship, with experience in:
-
-- Developing full-stack web apps (React, Next.js, Prisma, Supabase)
-- Building AI-powered solutions (Gemini AI, emotion recognition)
-- Leading student organizations and hackathon teams
-- Mentoring others through tech-focused initiatives
-
-I believe in using technology to empower communities and create lasting impact.
+**Computer Engineering @ UCF** | Minor in Technology Entrepreneurship  
+Full-Stack Developer | AI Enthusiast | Community Leader  
+**Website:** [tomiwaaluko.com](https://tomiwaaluko.com) | **Email:** tomiwaaluko02@gmail.com
 
 ---
 
-## 🔧 Tech Stack
+## About Me
+
+I'm a Computer Engineering student at the University of Central Florida with a passion for building impactful technology solutions. I specialize in full-stack web development and AI integration, with experience leading teams and delivering real-world applications that solve complex problems.
+
+My focus lies at the intersection of engineering and entrepreneurship, where I develop tools that enhance productivity, improve user experiences, and create meaningful impact in communities.
+
+---
+
+## Technical Skills
 
 **Languages:**  
 `Python` `Java` `C/C++` `JavaScript` `TypeScript` `HTML` `CSS`
 
 **Frameworks & Libraries:**  
-`ReactJS` `Next.js` `Tailwind CSS` `tRPC` `Vite` `Tkinter`
+`React.js` `Next.js` `Tailwind CSS` `tRPC` `Prisma` `React Query` `Framer Motion`
 
-**Tools & Platforms:**  
-`GitHub` `Vercel` `PostgreSQL` `Supabase` `Prisma` `Postman` `Resend`  
-`Google Gemini` `SolidWorks` `Adobe CC` `Microsoft 365`
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 [DigiConvo](https://github.com/tomiwaaluko/digiconvo)
-AI-powered conversation practice app built in a 12-hour hackathon using Gemini AI.
-
-- Real-time speech-to-text & emotion detection
-- Dynamic scenario-based personas with feedback coaching
-- Stack: `Next.js` `TypeScript` `tRPC` `Prisma` `Supabase` `Vercel`
+**Tools & Technologies:**  
+`Git/GitHub` `Vercel` `PostgreSQL` `Supabase` `NextAuth` `Postman` `Resend API`  
+`Google Gemini AI` `GPT-4 Vision` `Tesseract.js` `SolidWorks` `Adobe Creative Cloud`
 
 ---
 
-### 🌐 [Personal Portfolio](https://github.com/tomiwaaluko/TomiwaPortfolio)
-A fully responsive portfolio showcasing my work, projects, and achievements.
+## Featured Projects
 
-- SEO optimized, lazy loading, server-side rendering
-- Integrated email with Postman + Resend
-- Stack: `Next.js` `Tailwind` `React Hooks`
+### 💼 ApplySense — AI-Powered Job Application Tracker
+**Jul 2025 – Present** | [View Project](https://github.com/tomiwaaluko)
 
----
+An intelligent job application management system that automates the tracking process for job seekers.
 
-### 📅 EventFlare *(In Progress)*
-Event discovery app helping students find and manage campus events.
+- **Impact:** Processed 200+ job postings with 80% reduction in manual data entry
+- **Scale:** Supports 100+ user accounts with secure authentication and cloud storage  
+- **Features:** Auto-extraction of company details, deadline tracking, responsive dashboards
+- **Stack:** `Next.js` `TypeScript` `tRPC` `Prisma` `Supabase` `NextAuth` `GPT-4 Vision`
 
-- Personalized dashboards & modular backend
-- Focus on user experience & real-time updates
-- Stack: `React` `TypeScript` `Tailwind` `Vite`
+### 🧠 DigiConvo — AI Conversation Practice Platform  
+**Jul 2025** | [View Project](https://github.com/tomiwaaluko/digiconvo)
 
----
+A comprehensive conversation training application built during a 12-hour hackathon with a team of four.
 
-## 🌟 Leadership & Impact
+- **Features:** 6+ conversation scenarios across personal, professional, and social contexts
+- **AI Integration:** Google Gemini AI for realistic dialogue and emotion analysis
+- **Accessibility:** Speech-to-text, text-to-speech, responsive design, dark/light mode
+- **Performance:** OCR analysis with 95% accuracy and sub-2-second report generation
+- **Stack:** `Next.js` `TypeScript` `tRPC` `Prisma` `Google Gemini AI`
 
-- **President & Area Director**, Alpha Phi Alpha — led 20+ members, won *College Brother of the Year*
-- **Senator**, NSBE UCF — boosted org engagement by 30%, managed conference logistics
-- **Community Volunteer** — 200+ hours served with youth and food bank orgs
+### 🌐 Xi Iota Chapter Website — UCF Alpha Phi Alpha  
+**Jun 2025 – Present** | [View Project](https://github.com/tomiwaaluko)
 
----
+Modern, responsive chapter website with content management capabilities for organizational leaders.
 
-## 🏆 Awards & Recognition
-
-- CECS Dean’s List – *2024, 2025*
-- UCF Knights of the Roundtable – *Outstanding Officer of the Year (2024)*
-- Congressional Recognition (U.S. House of Reps) – *2017, 2018*
-
----
-
-## 📈 GitHub Stats
-
-![Tomiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomiwaaluko&show_icons=true&theme=radical)
+- **Growth:** Increased traffic to 500+ monthly visitors and 50% improvement in engagement
+- **Features:** Modular sections for history, leadership, events, service, and contact forms
+- **Performance:** Mobile-optimized with interactive galleries and planned analytics integration
+- **Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` `Vercel`
 
 ---
 
-## 🔗 Let's Connect
+## Professional Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olatomiwaaluko)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomiwaaluko)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tomiwaaluko.com)
+**Math Evaluator** | Outlier AI (Contract) | *Jun 2024 – May 2025*  
+- Evaluated 200+ AI-generated mathematical solutions across algebra, geometry, and calculus
+- Ensured accuracy and quality of AI model outputs for educational applications
 
 ---
 
-*“Build with purpose. Lead with impact.”*
+## Leadership & Community Impact
+
+**President & Assistant Area Director** | Alpha Phi Alpha Fraternity | *Mar 2022 – Present*  
+- Lead 20+ chapter members and oversee district-wide service initiatives
+- Manage organizational operations and community outreach programs
+
+**Senator** | National Society of Black Engineers | *Aug 2021 – Present*  
+- Coordinate logistics for regional and national events
+- Increased organizational engagement by 30% through strategic initiatives
+
+**Member** | ColorStack | *Mar 2025 – Present*  
+- Active participant in events supporting Black and Latinx technologists
+- Contribute to community building and professional development initiatives
+
+---
+
+## Recognition & Awards
+
+- **CECS Dean's List** — 2024 & 2025
+- **UCF Knights of the Roundtable** — Outstanding Officer of the Year (2024)
+- **Academic Excellence** — 3.50/4.00 GPA in Computer Engineering
+
+---
+
+## Education & Coursework
+
+**University of Central Florida** | *Expected December 2026*  
+Bachelor of Science in Computer Engineering | Minor in Technology Entrepreneurship
+
+**Relevant Coursework:**  
+Data Structures & Algorithms, Object-Oriented Programming, Computer Architecture, Embedded Systems, Real-Time Systems, CodePath Technical Interview Prep & Web Development
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olatomiwaaluko)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomiwaaluko)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tomiwaaluko.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomiwaaluko02@gmail.com)
+
+---
+
+*"Building technology solutions that create meaningful impact and drive positive change."*
