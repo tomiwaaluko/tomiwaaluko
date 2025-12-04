@@ -63,14 +63,6 @@ Modern, responsive chapter website with content management capabilities for orga
 
 ---
 
-## Professional Experience
-
-**Math Evaluator** | Outlier AI (Contract) | *Jun 2024 – May 2025*  
-- Evaluated 200+ AI-generated mathematical solutions across algebra, geometry, and calculus
-- Ensured accuracy and quality of AI model outputs for educational applications
-
----
-
 ## Leadership & Community Impact
 
 **President & Assistant Area Director** | Alpha Phi Alpha Fraternity | *Mar 2022 – Present*  
@@ -84,24 +76,6 @@ Modern, responsive chapter website with content management capabilities for orga
 **Member** | ColorStack | *Mar 2025 – Present*  
 - Active participant in events supporting Black and Latinx technologists
 - Contribute to community building and professional development initiatives
-
----
-
-## Recognition & Awards
-
-- **CECS Dean's List** — 2024 & 2025
-- **UCF Knights of the Roundtable** — Outstanding Officer of the Year (2024)
-- **Academic Excellence** — 3.50/4.00 GPA in Computer Engineering
-
----
-
-## Education & Coursework
-
-**University of Central Florida** | *Expected December 2026*  
-Bachelor of Science in Computer Engineering | Minor in Technology Entrepreneurship
-
-**Relevant Coursework:**  
-Data Structures & Algorithms, Object-Oriented Programming, Computer Architecture, Embedded Systems, Real-Time Systems, CodePath Technical Interview Prep & Web Development
 
 ---
 
