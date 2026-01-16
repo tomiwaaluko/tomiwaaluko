@@ -28,57 +28,6 @@ My focus lies at the intersection of engineering and entrepreneurship, where I d
 
 ---
 
-## Featured Projects
-
-### 💼 ApplySense — AI-Powered Job Application Tracker
-**Jul 2025 – Present** | [View Project](https://github.com/tomiwaaluko)
-
-An intelligent job application management system that automates the tracking process for job seekers.
-
-- **Impact:** Processed 200+ job postings with 80% reduction in manual data entry
-- **Scale:** Supports 100+ user accounts with secure authentication and cloud storage  
-- **Features:** Auto-extraction of company details, deadline tracking, responsive dashboards
-- **Stack:** `Next.js` `TypeScript` `tRPC` `Prisma` `Supabase` `NextAuth` `GPT-4 Vision`
-
-### 🧠 DigiConvo — AI Conversation Practice Platform  
-**Jul 2025** | [View Project](https://github.com/tomiwaaluko/digiconvo)
-
-A comprehensive conversation training application built during a 12-hour hackathon with a team of four.
-
-- **Features:** 6+ conversation scenarios across personal, professional, and social contexts
-- **AI Integration:** Google Gemini AI for realistic dialogue and emotion analysis
-- **Accessibility:** Speech-to-text, text-to-speech, responsive design, dark/light mode
-- **Performance:** OCR analysis with 95% accuracy and sub-2-second report generation
-- **Stack:** `Next.js` `TypeScript` `tRPC` `Prisma` `Google Gemini AI`
-
-### 🌐 Xi Iota Chapter Website — UCF Alpha Phi Alpha  
-**Jun 2025 – Present** | [View Project](https://github.com/tomiwaaluko)
-
-Modern, responsive chapter website with content management capabilities for organizational leaders.
-
-- **Growth:** Increased traffic to 500+ monthly visitors and 50% improvement in engagement
-- **Features:** Modular sections for history, leadership, events, service, and contact forms
-- **Performance:** Mobile-optimized with interactive galleries and planned analytics integration
-- **Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` `Vercel`
-
----
-
-## Leadership & Community Impact
-
-**President & Assistant Area Director** | Alpha Phi Alpha Fraternity | *Mar 2022 – Present*  
-- Lead 20+ chapter members and oversee district-wide service initiatives
-- Manage organizational operations and community outreach programs
-
-**Senator** | National Society of Black Engineers | *Aug 2021 – Present*  
-- Coordinate logistics for regional and national events
-- Increased organizational engagement by 30% through strategic initiatives
-
-**Member** | ColorStack | *Mar 2025 – Present*  
-- Active participant in events supporting Black and Latinx technologists
-- Contribute to community building and professional development initiatives
-
----
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olatomiwaaluko)
