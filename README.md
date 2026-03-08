@@ -60,4 +60,4 @@ My focus lies at the intersection of engineering and entrepreneurship, where I d
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tomiwaaluko.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomiwaaluko02@gmail.com)
 ---
-*"Get cracked, kid."*
+*"Just be better than the next person."*
