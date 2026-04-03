@@ -1,9 +1,11 @@
 # 👨‍💻 Olatomiwa Aluko | Software Engineer & Technology Leader
+
 **Computer Engineering @ UCF** | Minor in Technology Entrepreneurship  
 Full-Stack Developer | AI Enthusiast | Community Leader  
 **Website:** [tomiwaaluko.com](https://tomiwaaluko.com) | **Email:** tomiwaaluko02@gmail.com
 ---
 ## About Me
+
 I'm a Computer Engineering student at the University of Central Florida with a passion for building impactful technology solutions. I specialize in full-stack web development and AI integration, with experience leading teams and delivering real-world applications that solve complex problems.
 My focus lies at the intersection of engineering and entrepreneurship, where I develop tools that enhance productivity, improve user experiences, and create meaningful impact in communities.
 ---
