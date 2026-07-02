@@ -24,7 +24,7 @@
 
 I'm a Computer Engineering student at the University of Central Florida (minor in Technology Entrepreneurship), building at the intersection of full-stack development and agentic AI systems.
 
-Currently a **Software Engineering Intern at BNY (Bank of New York Mellon)** on the Data & Analytics Platform, working on agentic AI development within the Product & Innovation Team. Outside of that, I split my time between two flagship projects: **Helix**, an open-source distributed agent runtime with evaluation, observability, and a self-improving RAG loop, and **Chalk**, an XGBoost-based NBA prediction model trained on 147,000+ game logs and deployed in production.
+Currently a **Software Engineering Intern at BNY (Bank of New York)** on the Data & Analytics Platform, working on agentic AI development within the Product & Innovation Team. Outside of that, I split my time between two flagship projects: **Helix**, an open-source distributed agent runtime with evaluation, observability, and a self-improving RAG loop, and **Chalk**, an XGBoost-based NBA prediction model trained on 147,000+ game logs and deployed in production.
 
 I also do freelance web development on the side, building full production sites for clients end-to-end, from design in Figma to deployment.
 
