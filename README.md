@@ -105,6 +105,6 @@ I also do freelance web development on the side, building full production sites 
 
 <img src="footer.svg" width="100%"/>
 
-*"You're not cooked, just become unreplaceable"*
+*"You're not cooked, just get cracked (pause)"*
 
 </div>
