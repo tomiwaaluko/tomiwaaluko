@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,100:34D399&height=220&section=header&text=Olatomiwa%20Aluko&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Agentic%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="header.svg" width="100%"/>
 
 <a href="https://tomiwaaluko.com">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
@@ -32,18 +32,12 @@ I also do freelance web development on the side, building full production sites 
 
 ## Featured Projects
 
-<div align="center">
+| Project | Description |
+|---|---|
+| 🔗 [**Helix**](https://github.com/tomiwaaluko/helix) | Distributed agent runtime with evaluation, observability, and a self-improving RAG loop |
+| 🔗 [**Chalk**](https://github.com/tomiwaaluko/chalk) | XGBoost-based NBA prediction model trained on 147,000+ game logs, deployed in production |
 
-<a href="https://github.com/tomiwaaluko/helix" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwaaluko&repo=helix&theme=transparent&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" width="410" />
-</a>
-<a href="https://github.com/tomiwaaluko/chalk" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomiwaaluko&repo=chalk&theme=transparent&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" width="410" />
-</a>
-
-</div>
-
-> **Why these might show as broken images:** this pin card widget 404s (renders as a tiny broken-image icon) if the `repo=` name doesn't exactly match a real, public repo under your username, case-sensitive. Go to `github.com/tomiwaaluko` and copy the exact repo names for Helix and Chalk (or swap in `standin` / `kineticlab` if you'd rather feature those) — the card will render correctly once the name is right.
+> Swapped the GitHub pin-card widgets for a plain table — that widget's public API has been intermittently rate-limited/down (confirmed multiple 503 outages reported through 2026), so this version won't ever break. If you want the visual card style back later, you can re-add `https://github-readme-stats.vercel.app/api/pin/?username=tomiwaaluko&repo=helix` once the service is stable, or self-host your own instance for full reliability.
 
 ---
 
@@ -109,7 +103,7 @@ I also do freelance web development on the side, building full production sites 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,100:34D399&height=100&section=footer" width="100%"/>
+<img src="footer.svg" width="100%"/>
 
 *"You're not cooked, just become unreplaceable"*
 
