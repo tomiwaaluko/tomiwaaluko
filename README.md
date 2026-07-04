@@ -37,8 +37,6 @@ I also do freelance web development on the side, building full production sites 
 | 🔗 [**Helix**](https://github.com/tomiwaaluko/helix) | Distributed agent runtime with evaluation, observability, and a self-improving RAG loop |
 | 🔗 [**Chalk**](https://github.com/tomiwaaluko/chalk) | XGBoost-based NBA prediction model trained on 147,000+ game logs, deployed in production |
 
-> Swapped the GitHub pin-card widgets for a plain table — that widget's public API has been intermittently rate-limited/down (confirmed multiple 503 outages reported through 2026), so this version won't ever break. If you want the visual card style back later, you can re-add `https://github-readme-stats.vercel.app/api/pin/?username=tomiwaaluko&repo=helix` once the service is stable, or self-host your own instance for full reliability.
-
 ---
 
 ## Technical Skills
